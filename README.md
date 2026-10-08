@@ -1,7 +1,7 @@
 # Hi, I'm Oğuzhan Çelik 👋
 
 M.Sc. in Computer Engineering (Başkent University).  
-I work at the intersection of **remote sensing** and **deep learning**: turning raw satellite imagery into clean, analysis-ready data and training models that segment water bodies and shorelines.
+I work at the intersection of **computer vision**, **deep learning** and **geospatial data**: turning raw imagery into clean, analysis-ready data and building models that extract meaningful information from it.
 
 ## 🔭 Focus areas
 - Computer vision and image processing
