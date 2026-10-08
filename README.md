@@ -4,10 +4,11 @@ M.Sc. in Computer Engineering (Başkent University).
 I work at the intersection of **remote sensing** and **deep learning**: turning raw satellite imagery into clean, analysis-ready data and training models that segment water bodies and shorelines.
 
 ## 🔭 Focus areas
+- Computer vision and image processing
 - Semantic segmentation of satellite imagery
-- Sentinel-2 data acquisition and processing
-- Water body mapping with spectral indices (NDWI)
-- GeoTIFF / shapefile processing pipelines for building deep learning datasets
+- Data acquisition and processing
+- GIS and spatial analysis
+- Geospatial data processing and dataset preparation for deep learning
 
 ## 🛠️ Tools
 
