@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Oğuzhan Çelik 👋
 
-<!--
-**ogzhncelik/ogzhncelik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.Sc. in Computer Engineering (Başkent University).  
+I work at the intersection of **remote sensing** and **deep learning**: turning raw satellite imagery into clean, analysis-ready data and training models that segment water bodies and shorelines.
 
-Here are some ideas to get you started:
+## 🔭 Focus areas
+- Semantic segmentation of satellite imagery 
+- Sentinel-2 data acquisition and processing
+- Water body mapping with spectral indices (NDWI)
+- GeoTIFF / shapefile processing pipelines for building deep learning datasets
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools
+- **Languages:** Python · Java
+- **Geospatial:** GDAL · rasterio · GeoPandas · Shapely · pyproj · QGIS
+- **Deep learning & vision:** PyTorch · OpenCV · scikit-image
+- **Data & plotting:** NumPy · SciPy · Matplotlib
+
+## 📫 Contact
+[LinkedIn](https://www.linkedin.com/in/ogzhn-celik) · [ORCID](https://orcid.org/0009-0007-7488-3159)
